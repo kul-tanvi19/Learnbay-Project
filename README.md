@@ -23,6 +23,17 @@ Utilized SQL for data analysis and Power BI to create interactive data visualiza
     4. Identify the impact of machine location on breakdown frequency.
     5. compares the breakdown frequency of machines that underwent preventive maintenance against those that didn't, to assess the impact of maintenance on machine reliability.
 
+## Data Visualization
+- Machine Summary Report
+  ![image](https://github.com/user-attachments/assets/04e22369-1f48-4f46-a313-ecf1b7c93b88)
+
+- Machine Breakdown Summary Report
+  ![image](https://github.com/user-attachments/assets/58377df8-937c-458e-b54b-d95c6d48368d)
+
+
+
+
+
 
 
 
