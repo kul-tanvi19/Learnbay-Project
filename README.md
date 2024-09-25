@@ -25,7 +25,8 @@ Utilized SQL for data analysis and Power BI to create interactive data visualiza
 
 ## Data Visualization
 - Machine Summary Report
-  ![Screenshot 2024-08-22 175320](https://github.com/user-attachments/assets/2368371f-c88e-444e-8905-ef32f6265c83)
+  ![image](https://github.com/user-attachments/assets/13a23971-6e3f-4a92-bdd5-9d852403add9)
+
 
 
 - Machine Breakdown Summary Report
