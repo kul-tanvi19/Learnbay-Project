@@ -7,6 +7,8 @@
   - [Datasource](#Datasource)
   - [Data Preparation and Analysis](#Data-Preparation-and-Analysis)
   - [Data Visualization](#Data-Visualization)
+  - [Insights](#Insights)
+  - [Recommendations](#Recommendations)
 
 ## Objective
 To conduct an analysis to identify the factors that impact machine downtime, repair costs, and productivity.
@@ -27,11 +29,19 @@ Utilized SQL for data analysis and Power BI to create interactive data visualiza
 - Machine Summary Report
   ![image](https://github.com/user-attachments/assets/13a23971-6e3f-4a92-bdd5-9d852403add9)
 
-
-
 - Machine Breakdown Summary Report
   ![image](https://github.com/user-attachments/assets/58377df8-937c-458e-b54b-d95c6d48368d)
 
+
+## Insights 
+- Older machines have higher breakdowns, while newer ones have fewer.
+- Machines with the highest breakdown counts have lower downtime.
+- Machines in Operation state with Completed maintenance have the highest breakdowns & costs, with Haryana, Punjab, and Rajasthan leading in counts.
+
+## Recommendations
+- Prioritize frequent preventive maintenance for older machines and continuously monitor them to catch issues early and prevent breakdowns. If a machine frequently requires maintenance and drives up costs, consider replacing it.
+- For machines with maximum downtime despite fewer breakdowns, identify factors contributing to high downtime, such as machine age or maintenance cycle, to address the specific issues effectively.
+- We need to analyze factors such as machine usage, maintenance quality, and environmental conditions. Understanding these aspects will help identify underlying issues and improve overall performance.
 
 
 
